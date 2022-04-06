@@ -1,0 +1,8 @@
+.title {
+    color: white
+}
+
+.orders-container {
+    display: flex;
+    flex-direction: column;
+}
